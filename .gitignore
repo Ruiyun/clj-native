@@ -1,5 +1,7 @@
 .lein-failures
+.lein-repl-history
 *.dll
+*.so
 *.o
 *.obj
 *.lib
